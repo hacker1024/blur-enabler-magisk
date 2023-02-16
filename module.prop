@@ -1,0 +1,7 @@
+id=blur-enabler
+name=Blur Enabler
+version=0.1.0
+versionCode=1
+author=hacker1024
+description=Enables window blurs in SurfaceFlinger.
+updateJson=https://github.com/hacker1024/blur-enabler-magisk/raw/master/update.json
